@@ -165,4 +165,4 @@ DBRequest对DBManager进行封装，因为操作数据需要的参数多，所�
                     .whereArgs(new String[] {people.getId()+""})
                     .delete();
 
-![妹妹]({{https://anima18.github.io}}/assets/sister.jpg)
+![妹妹](https://anima18.github.io/assets/sister.jpg)
